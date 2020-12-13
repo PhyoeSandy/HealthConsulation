@@ -1,0 +1,4 @@
+include ':shared'
+include ':doctor'
+include ':patient'
+rootProject.name = "HealthConsulation"
